@@ -1,0 +1,23 @@
+h3{
+    color: blue;
+    background-color: gainsboro;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: green;
+    background-color: aliceblue;
+    column-count: 3;
+    column-gap: 34px;
+    line-height: 25px;
+}
+ul{
+    color: rgb(212, 133, 29);
+    background-color: aquamarine;
+    border: 5px double red;
+}
+li{
+    list-style-type: lower-greek;
+}

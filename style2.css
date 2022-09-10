@@ -1,0 +1,27 @@
+.may{
+    color: blue;
+}
+#class{
+    color: orange;
+}
+div.may{
+    color: red;
+}
+a[href*="google"]{
+    color: purple;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    border: 10px solid red;
+    background-color: aliceblue;
+
+}
+a[href$=".co"]{
+    color: purple;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    border: 10px solid red;
+    background-color: aliceblue;
+
+}
